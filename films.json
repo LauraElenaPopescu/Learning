@@ -1,0 +1,99 @@
+[
+{
+    "_id": "Enter the Void",
+    "year": 2009,
+    "director": "Gaspar Noé",
+    "cast": [
+        "Paz de la Huerta",
+        "Nathaniel Brown",
+        "Cyril Roy",
+        "Olly Alexander",
+        "So-dam Park"
+    ],
+    "genres": [
+        "drama",
+        "fantasy"
+      ],
+
+    "synopsis": "An American drug dealer living in Tokyo is betrayed by his best friend and killed in a drug deal. His soul, observing the repercussions of his death, seeks resurrection.",
+
+    "metscore":69,
+    "imdb_score":8.6
+},
+
+{
+    "_id": "Parasite",
+    "year": 2019,
+    "director": "Bong Joon Ho",
+    "cast": [
+        "Kang-ho Song",
+        "Sun-kyun Lee",
+        "Yeo-jeong Jo",
+        "Woo-sik Choi",
+        "So-dam Park"
+    ],
+    "genres": [
+        "comedy",
+        "drama",
+        "thriller"
+      ],
+
+    "synopsis": "A poor family, the Kims, con their way into becoming the servants of a rich family, the Parks. But their easy life gets complicated when their deception is threatened with exposure.",
+
+    "metscore":96,
+    "imdb_score":8.6
+
+},
+
+{
+    "_id": "The Apartment",
+    "year": 1960,
+    "director": "Billy Wilder",
+    "cast": [
+        "Jack Lemmon",
+        "Shirley MacLaine",
+        "Fred MacMurray",
+        "Ray Walston",
+        "Jack Kruschen"
+    ],
+    "genres": [
+        "comedy",
+        "drama",
+        "romance"
+      ],
+
+    "synopsis": "A man tries to rise in his company by letting its executives use his apartment for trysts, but complications and a romance of his own ensue.",
+    "metscore":96,
+    "imdb_score":8.6
+
+},
+
+{
+    "_id": "12 Monkeys",
+    "year": 1995,
+    "director": "Terry Gilliam",
+    "cast": [
+        "Bruce Willis",
+        "Brad Pitt",
+        "Jon Seda",
+        "Michael Chance",
+        "Vernon Campbell"
+    ],
+    "genres": [
+        "mistery",
+        "sci-fi",
+        "thriller"
+      ],
+
+    "synopsis": "In a future world devastated by disease, a convict is sent back in time to gather information about the man-made virus that wiped out most of the human population on the planet.",
+    "metscore":74,
+    "imdb_score":8.0
+
+}
+
+
+
+
+
+]
+
