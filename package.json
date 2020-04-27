@@ -1,0 +1,19 @@
+{
+  "name": "learning",
+  "version": "1.0.0",
+  "description": "To contain all excercises for code and automation learning.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LauraElenaPopescu/Learning.git"
+  },
+  "author": "Laura Popescu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LauraElenaPopescu/Learning/issues"
+  },
+  "homepage": "https://github.com/LauraElenaPopescu/Learning#readme"
+}
